@@ -1,0 +1,1 @@
+This is a private repo to store images which serve [finmoorhouse.com](https://www.finmoorhouse.com).
